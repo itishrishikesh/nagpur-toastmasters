@@ -1,0 +1,73 @@
+{
+  "clubName": "Nagpur Toastmasters Club",
+  "programYear": "2026–2027",
+  "updatedAt": "2026-08-22T06:44:49.800Z",
+  "goals": [
+    {
+      "id": 1,
+      "title": "Level 1 awards",
+      "current": 1,
+      "target": 4
+    },
+    {
+      "id": 2,
+      "title": "Level 2 awards",
+      "current": 0,
+      "target": 4
+    },
+    {
+      "id": 3,
+      "title": "Level 3 awards",
+      "current": 1,
+      "target": 2
+    },
+    {
+      "id": 4,
+      "title": "Level 4 / 5 / DTM",
+      "current": 0,
+      "target": 2
+    },
+    {
+      "id": 5,
+      "title": "New members",
+      "current": 4,
+      "target": 4
+    },
+    {
+      "id": 6,
+      "title": "Membership growth",
+      "current": 0,
+      "target": 4
+    },
+    {
+      "id": 7,
+      "title": "Club officer training round 1",
+      "current": 7,
+      "target": 7
+    },
+    {
+      "id": 8,
+      "title": "Club officer training round 2",
+      "current": 0,
+      "target": 7
+    },
+    {
+      "id": 9,
+      "title": "Membership dues on time",
+      "current": 0,
+      "target": 1
+    },
+    {
+      "id": 10,
+      "title": "Officer list submitted",
+      "current": 1,
+      "target": 1
+    },
+    {
+      "id": 11,
+      "title": "Club Success Plan submitted",
+      "current": 1,
+      "target": 1
+    }
+  ]
+}
