@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="NTC VPE Desk">
+  <rect width="512" height="512" rx="112" fill="#143f36"/>
+  <circle cx="256" cy="256" r="174" fill="none" stroke="#ffcf61" stroke-width="18"/>
+  <path d="M160 332V180h35l122 99v-99h35v152h-34L195 233v99z" fill="#fff"/>
+  <path d="M154 362h204" stroke="#ffcf61" stroke-width="14" stroke-linecap="round"/>
+</svg>
